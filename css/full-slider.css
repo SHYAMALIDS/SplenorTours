@@ -119,10 +119,10 @@ html, body {
 .float-nav.closed li { margin-bottom: 1.375em; }
 .navigation {
     position: fixed;
-    bottom: 92px;
+    bottom: 70px;
     left: 0px;
     z-index: 0;
-    margin-left: 35px;
+    margin-left: 60px;
     font-family: 'Lobster', cursive;
     font-size: 20px;
 }
